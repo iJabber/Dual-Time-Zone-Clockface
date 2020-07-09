@@ -1,0 +1,78 @@
+.background {
+  viewport-fill: black;
+}
+
+#homeZone {
+  font-size: 100;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: start;
+  x: 3%;
+  y: 25%;
+  fill: white;
+}
+
+#homeLocation {
+  font-size: 16;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: start;
+  x: 60%;
+  y: 32%;
+  fill: white;
+}
+
+#awayZone {
+  font-size: 100;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: start;
+  x: 3%;
+  y: 60%;
+  fill: grey;
+}
+#awayLocation {
+  font-size: 16;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: start;
+  x: 60%;
+  y: 67%;
+  fill: grey;
+}
+#myHeartRate {
+  font-size: 28;
+  font-family: System-Regular;
+  text-length: 50;
+  text-anchor: start;
+  x: 5%;
+  y: 75%;
+  fill: grey;
+}
+#mySteps {
+  font-size: 28;
+  font-family: System-Regular;
+  text-length: 50;
+  text-anchor: start;
+  x: 5%;
+  y: 85%;
+  fill: white;
+}
+#myDist {
+  font-size: 28;
+  font-family: System-Regular;
+  text-length: 50;
+  text-anchor: start;
+  x: 5%;
+  y: 95%;
+  fill: white;
+}
+#date {
+  font-size: 40;
+  font-family: System-Regular;
+  text-length: 50;
+  text-anchor: start;
+  x: 62%;
+  y: 95%;
+  fill: grey;  
+}

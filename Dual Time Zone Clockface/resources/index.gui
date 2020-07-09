@@ -1,0 +1,10 @@
+<svg class="background">
+  <text id="homeZone" />
+  <text id="homeLocation" />
+  <text id="awayZone" />
+  <text id="awayLocation" />
+  <text id="myHeartRate" />
+  <text id="mySteps" />
+  <text id="myDist" />
+  <text id="date" />
+</svg>
